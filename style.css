@@ -1,0 +1,81 @@
+/* .box{
+    width: 800px;
+    height: 800px;
+    border: 5px solid red;
+    padding: auto auto;
+    margin: 0px;
+    margin: 0 auto;
+}
+
+.title{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+
+.secondButton{
+    width: 200px;
+    height: 200px;
+    font-size: 36px;
+    background-color: green;
+    color: orange;
+    
+}
+.thirdbutton{
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    display: none;
+
+}
+
+.axaliclasi{
+    display: block;
+} */
+
+
+.container{
+    width: 800px;
+    height: 400px;
+    background-color: black;
+    margin: 0 auto;
+    margin-top: 200px;
+    border-radius: 20px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    padding-top: 60px;
+    font-weight: 900;
+    word-spacing: 10px;
+}
+.someInput{
+    width: 300px;
+    height: 70px;
+    margin-left: 190px;
+    margin-top: 80px;
+    font-size: 24px;
+    border: none;
+    border-radius: 10px;
+}
+.ADD{
+    height: 70px;
+    width: 140px;
+    background-color: red;
+    color: white;
+    margin-left: -6px;
+    margin-top: 0px;
+    border: none;
+    font-size: 24px;
+
+}
+
+.textP{
+    font-size: 52px;
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+
+}
